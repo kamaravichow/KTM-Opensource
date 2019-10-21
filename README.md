@@ -7,19 +7,19 @@ Here you can find a few app made by me on Kodular, Thunkable or MIT App Inventor
 
 **List of AIA files**
 
-1. Food Recipe App aka Organically
+### 1. Food Recipe App aka Organically
 - A basic food recipe app made with **Kodular** and works only on **Kodular**. Database - Airtable.
 Aia - [Organically.aia](https://github.com/kamaravichow/KTM-Opensource/blob/master/Organically/Organically.aia)
 
-2. Chat Lines Model aka Pick Up Lines
+### 2. Chat Lines Model aka Pick Up Lines
 - To show up a list view that gets data from Airtable **Kodular Only**
 Aia - [PickUp.aia](https://github.com/kamaravichow/KTM-Opensource/blob/master/Chat%20Lines/Pickup.aia)
 
-3. Cartoonify.io - Uses Cloudinary Image Transformations
+### 3. Cartoonify.io - Uses Cloudinary Image Transformations
 - Coverts image into a cartoon - Made with **Kodular**
 Aia - [Cartoonify.aia](https://github.com/kamaravichow/KTM-Opensource/blob/master/Cartoonify/Cartoonify.aia)
 
-4. Audio Transcript - Converts Speech to Text
+### 4. Audio Transcript - Converts Speech to Text
 - Uses google voice recognision - Made with **Kodular**
 Aia - [AudioTran.aia](https://github.com/kamaravichow/KTM-Opensource/blob/master/Audio%20Transcript/AudioTrans.aia)
 
